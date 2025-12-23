@@ -62,9 +62,10 @@ Room handles SQLite operations and background threading automatically.
 ### Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/oganaa2472/notey-app.git
+   git clone https://github.com/oganaa2472/notey-app-.git
 
 ## 📸 Screenshots
 <img src="./screen1.png" width="250"/>
+
 ### Gana Oyun (Android Developer)
 - Focused on clean architecture and modern Android development
