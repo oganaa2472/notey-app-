@@ -4,6 +4,9 @@
 A simple Android **Note Application** built using **MVVM architecture** and **Room Database**.  
 This app allows users to create, update, delete, and store notes locally in an efficient and clean way.
 
+
+## 📸 Screenshots
+<img src="./screen1.png" width="250"/>
 ---
 
 ## 📱 Features
@@ -64,8 +67,7 @@ Room handles SQLite operations and background threading automatically.
    ```bash
    git clone https://github.com/oganaa2472/notey-app-.git
 
-## 📸 Screenshots
-<img src="./screen1.png" width="250"/>
+
 
 ### Gana Oyun (Android Developer)
 - Focused on clean architecture and modern Android development
